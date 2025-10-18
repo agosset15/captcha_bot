@@ -3,7 +3,7 @@ from aiogram.enums import ParseMode, ChatType
 from aiogram.types import ChatMemberUpdated, ChatPermissions, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from aiogram.filters import ChatMemberUpdatedFilter, JOIN_TRANSITION
 
-bot = Bot(token="8383046541:AAF_sxAovMUE-s5njPLoZMmH5heUg5UJbk8")
+bot = Bot(token="*YOUR TELEGRAM TOKEN HERE*")
 dp = Dispatcher(disable_fsm=True)
 
 
